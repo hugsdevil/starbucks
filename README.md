@@ -1,4 +1,4 @@
-# Starbucks
+# Starbucks wifi program
 korea starbucks wifi connection source
 
 # LICENSE
